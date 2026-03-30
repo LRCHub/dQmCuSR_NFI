@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "7月の翼",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-30T14:02:12.930389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "7月の翼 (Live \"Midnight Sun\" ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_7月の翼_(Live__Midnight_Sun__ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7月の翼",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_7月の翼_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "7月の翼 (Live“Midnight Sun”ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_7月の翼_(Live“Midnight_Sun”ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "7月の翼",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/04_7月の翼_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "7月の翼 (Live “Midnight Sun” ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_7月の翼_(Live_“Midnight_Sun”_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "7月の翼 (7月之翼)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_7月の翼_(7月之翼)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "7月の翼 (Live “Midnight Sun” ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_7月の翼_(Live_“Midnight_Sun”_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "7月の翼",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_7月の翼_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "7月の翼 - Shichigatsunotubasa",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_7月の翼_-_Shichigatsunotubasa_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "7月の翼 (Live \"Midnight Sun\" ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_7月の翼_(Live__Midnight_Sun__ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "7月の翼 (Live“Midnight Sun”ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_7月の翼_(Live“Midnight_Sun”ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "7月の翼 (Live“Midnight Sun”ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_7月の翼_(Live“Midnight_Sun”ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "7月の翼 (Live “Midnight Sun” ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_7月の翼_(Live_“Midnight_Sun”_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7月の翼",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_7月の翼_Aimer.txt"
+    }
+  ]
+}
